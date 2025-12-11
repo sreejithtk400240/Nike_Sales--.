@@ -1,5 +1,7 @@
 # Nike_Sales--.
-{ Nike Sales Data Set }
+ ## Discription 
+ This dataset contains information about Nike products, including details such as product name, category, price, discount, sales, profit, customer ratings, and other performance metrics. It is useful for analyzing product performance, pricing trends, customer preferences, and overall sales patterns within Nike’s product portfolio.
+ 
 #### About:"This synthetic dataset simulates retail and online sales transactions from Nike, one of the world's leading sportswear and footwear brands".
 
 #### AIM:" To analyze the Nike dataset to understand sales trends, customer preferences, and factors influencing product performance."
